@@ -1,1 +1,27 @@
+#header {
 
+}
+
+#header .content {
+    text-align: center;
+}
+
+#thecookies {
+    text-align: center;
+}
+
+.cookie {
+    text-align: center;
+}
+#about-us {
+    margin-top: 5vh;
+}
+
+#about-us .content {
+    text-align: center;
+}
+
+#contact-us {
+    margin-top: 5vh;
+    text-align: center;
+}
