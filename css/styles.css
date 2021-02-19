@@ -41,6 +41,10 @@
     text-align: center;
 }
 
+#about-us-p {
+    text-align: left;
+}
+
 .contact-us {
     background-color: #19a0d0;
 }
